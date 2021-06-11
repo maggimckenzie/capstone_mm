@@ -4,10 +4,6 @@
 
 ---
 
-(<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5xmYwyhgUf0KwiyuGQ1PwZyx1Tv6Nh5wulVPTiuGMscNFILH1YaOwenaV7VNt3d2EcgZuROycPm5_/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>)
-
----
-
 ## **Origin**
 Language is how humans communicate, but stories are how we make sense of the world. Stories are important, and reading is one way we consume stories. Online book stores are wonderful if you know what you want, but they lack the environment of browsing and discovery that a brick-and-mortar store offers. Project Gutenberg has an online repository of over 65,000 free e-books with, but it offers a bare-bones user experience. I conceived this project to investigate a couple of things:
 
